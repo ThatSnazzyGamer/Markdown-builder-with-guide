@@ -1,14 +1,24 @@
-# Markdown-builder-with-guide
+# Main Heading Here - Headings use '#'s 
+ ### Sub Heading Here 
+
+ --- 
+
+ Main info here - Paragraphs are just written as plain text 
+
+ --- 
+ `code - Code uses '``'` 
+
+ --- 
+
+ [This is a link](http://google.com) 
+
+ Links use '[]' for the text portion and then '()' for the link portion 
+
+ --- 
+
+ #### Raw html can also be used 
+
+ <ul><li>List item</li><li>Another list item</li></ul>
 
 ---
-This is a simple web application designed to make writing markdown easier.
-
-This tool is very useful to github users who want easy visual, live feedback of what their readme.md file will look like, before they release it.
-
----
-This application contains some placeholder text which is a small and simple guide to the basics of markdown, using some of the features a github user would use the most.
-
----
-Built by Ben Powley
-
-Built using VueJs
+![](http://i.gyazo.com/cef0836270fb95a545fb98fa7a3aed1c.png)
