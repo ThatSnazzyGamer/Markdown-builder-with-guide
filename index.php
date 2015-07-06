@@ -12,10 +12,10 @@
             <h2>Github Readme.md Builder/Guide</h2>
             <hr>
         </div>
-            <div id="content">
-                <textarea class="form-control" cols="30" rows="10" v-model="markdownInput" style="resize: none;"></textarea>
-                <hr>
-                <div v-html="markdownInput | marked"></div>
+        <div id="content">
+            <textarea class="form-control" cols="30" rows="10" v-model="markdownInput" style="resize: none;"></textarea>
+            <hr>
+            <div v-html="markdownInput | marked"></div>
         </div>
     </div>
     
